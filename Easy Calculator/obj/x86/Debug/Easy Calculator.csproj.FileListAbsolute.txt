@@ -1,0 +1,12 @@
+d:\Projects\Easy Calculator\Easy Calculator\bin\Debug\Easy Calculator.exe
+d:\Projects\Easy Calculator\Easy Calculator\bin\Debug\Easy Calculator.pdb
+d:\Projects\Easy Calculator\Easy Calculator\obj\x86\Debug\Easy_Calculator.Form1.resources
+d:\Projects\Easy Calculator\Easy Calculator\obj\x86\Debug\Easy_Calculator.Properties.Resources.resources
+d:\Projects\Easy Calculator\Easy Calculator\obj\x86\Debug\Easy Calculator.csproj.GenerateResource.Cache
+d:\Projects\Easy Calculator\Easy Calculator\obj\x86\Debug\Easy Calculator.exe
+d:\Projects\Easy Calculator\Easy Calculator\obj\x86\Debug\Easy Calculator.pdb
+d:\Projects\Easy Calculator\Easy Calculator\bin\Debug\Easy Calculator.exe.manifest
+d:\Projects\Easy Calculator\Easy Calculator\bin\Debug\Easy Calculator.application
+d:\Projects\Easy Calculator\Easy Calculator\obj\x86\Debug\Easy Calculator.exe.manifest
+d:\Projects\Easy Calculator\Easy Calculator\obj\x86\Debug\Easy Calculator.application
+D:\Projects\Easy Calculator\Easy Calculator\obj\x86\Debug\Easy Calculator.csprojResolveAssemblyReference.cache
