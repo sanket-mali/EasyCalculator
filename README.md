@@ -1,2 +1,4 @@
 # EasyCalculator
-Windows GUI app. Experimenting with C#.
+Windows GUI app. 
+Experimenting with C#.
+Made by me.
